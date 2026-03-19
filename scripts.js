@@ -9,3 +9,11 @@ function sairDoCurso() {
 function escolherCurso() {
     console.log("Escolheu o curso");
 }
+
+function fazerLogin() {
+    console.log("Fez login");
+}
+
+function fazerLogout() {
+    console.log("Fez logout");
+}
